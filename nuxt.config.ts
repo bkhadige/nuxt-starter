@@ -1,7 +1,7 @@
 export default defineNuxtConfig({
     target: 'static',
     router: {
-        base: '/<repository-name>/'
+        base: '/nuxt-starter/'
     },
     modules: [
         '@nuxt/image-edge',
